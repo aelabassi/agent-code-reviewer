@@ -80,6 +80,10 @@ The project uses:
 - TypeScript for type safety
 - Tailwind CSS for styling
 
+# Screenshots
+
+[demo](./screenshots/example.png)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
