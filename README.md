@@ -82,7 +82,7 @@ The project uses:
 
 # Screenshots
 
-[demo](./screenshots/example.png)
+![demo](./screenshots/example.png)
 
 ## Contributing
 
